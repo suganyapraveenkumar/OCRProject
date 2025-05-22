@@ -1,0 +1,6 @@
+@AIAnswerSheetAPI_HostAddress = http://localhost:5217
+
+GET {{AIAnswerSheetAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
